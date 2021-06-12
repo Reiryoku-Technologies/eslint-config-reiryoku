@@ -1,0 +1,10 @@
+{
+    "name": "@reiryoku/eslint-config-reiryoku",
+    "version": "1.0.0",
+    "main": "entry/node/main.js",
+    "peerDependencies": {
+        "eslint": ">= 3",
+        "@typescript-eslint/eslint-plugin": ">= 4",
+        "@typescript-eslint/parser": ">= 4"
+    }
+}
