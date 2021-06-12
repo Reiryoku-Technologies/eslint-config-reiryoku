@@ -1,7 +1,25 @@
 {
     "name": "@reiryoku/eslint-config-reiryoku",
     "version": "1.0.0",
+    "description": "The code style used by Reiryoku Technologies.",
+    "license": "MIT",
+    "homepage": "https://github.com/Reiryoku-Technologies/eslint-config-reiryoku",
+    "bugs": {
+        "url": "https://github.com/Reiryoku-Technologies/eslint-config-reiryoku.git/issues"
+    },
+    "author": {
+        "name": "Vasile Pește / Reiryoku Technologies",
+        "email": "vasile.peste@protonmail.ch"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Reiryoku-Technologies/eslint-config-reiryoku.git"
+    },
     "main": "entry/node/main.js",
+    "files": [
+        "entry",
+        ".eslintrc.js"
+    ],
     "peerDependencies": {
         "eslint": ">= 3",
         "@typescript-eslint/eslint-plugin": ">= 4",
