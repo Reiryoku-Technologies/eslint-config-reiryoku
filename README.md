@@ -1,1 +1,1 @@
-The code style used by Reiryoku Technologies.
+The code style used at Reiryoku Technologies.
