@@ -110,7 +110,7 @@ module.exports = {
         "@typescript-eslint/explicit-module-boundary-types": "error",
         "@typescript-eslint/member-delimiter-style": "error",
         "@typescript-eslint/explicit-function-return-type": "error",
-        // "@typescript-eslint/explicit-member-accessibility": "error", // Has conflict with native private fields.
+        // "@typescript-eslint/explicit-member-accessibility": "error", // Disabled due to conflicts with native private fields
         "@typescript-eslint/no-this-alias": "error",
         "@typescript-eslint/prefer-for-of": "error",
         "@typescript-eslint/prefer-namespace-keyword": "error",

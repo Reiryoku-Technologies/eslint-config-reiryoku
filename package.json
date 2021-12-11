@@ -1,15 +1,16 @@
 {
     "name": "@reiryoku/eslint-config-reiryoku",
     "version": "1.0.0",
-    "description": "The code style used by Reiryoku Technologies.",
+    "description": "The code style used at Reiryoku Technologies.",
     "license": "MIT",
     "homepage": "https://github.com/Reiryoku-Technologies/eslint-config-reiryoku",
     "bugs": {
-        "url": "https://github.com/Reiryoku-Technologies/eslint-config-reiryoku.git/issues"
+        "url": "https://github.com/Reiryoku-Technologies/eslint-config-reiryoku.git/issues",
+        "email": "dev@reiryoku.com"
     },
     "author": {
         "name": "Vasile Pește / Reiryoku Technologies",
-        "email": "vasile.peste@protonmail.ch"
+        "email": "vasile.peste@reiryoku.com"
     },
     "repository": {
         "type": "git",
