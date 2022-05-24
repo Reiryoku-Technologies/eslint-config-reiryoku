@@ -110,7 +110,7 @@ module.exports = {
         "@typescript-eslint/explicit-module-boundary-types": "error",
         "@typescript-eslint/member-delimiter-style": "error",
         "@typescript-eslint/explicit-function-return-type": "error",
-        // "@typescript-eslint/explicit-member-accessibility": "error", // Disabled due to conflicts with native private fields
+        "@typescript-eslint/explicit-member-accessibility": "error",
         "@typescript-eslint/no-this-alias": "error",
         "@typescript-eslint/prefer-for-of": "error",
         "@typescript-eslint/prefer-namespace-keyword": "error",
@@ -121,7 +121,6 @@ module.exports = {
         "@typescript-eslint/restrict-plus-operands": "error",
         "@typescript-eslint/no-extra-parens": "error",
         "@typescript-eslint/no-extra-semi": "error",
-        "@typescript-eslint/no-invalid-this": "error",
         "@typescript-eslint/semi": "error",
         "@typescript-eslint/space-before-function-paren": "error",
     },
